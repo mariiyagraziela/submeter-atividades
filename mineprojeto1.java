@@ -5,9 +5,7 @@
  * @author (Graziela) 
  * @version (11/04/2024)
  */
-\\arquivo modificado
-\\modificado novamente
-\\outra modificação
+
 import java.util.Scanner;
 public class mineprojeto1
 {
