@@ -14,8 +14,8 @@ public class mineprojeto1
         System.out.println("Historia: perdida");
         System.out.println("Era uma vez uma gata peluda e curiosa, um dia ela");
         System.out.println("se perdeu, levada pela sua curiosidade adentrou uma");
-        System.out.println("floresta. por para tentar capitura uma borboleta ");
-        System.out.println("e acabou entreando ainda mais na floresta.");
+        System.out.println("floresta. Por para tentar capitura uma borboleta ");
+        System.out.println("e acabou entrando ainda mais na floresta.");
         
         System.out.println("\n CAPITULO 2");
         System.out.println("A felina percebeu que havia 2 caminhos");
