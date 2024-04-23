@@ -62,7 +62,7 @@ public class Main_mineprojeto2
            if (escolha2 == 2){
              System.out.println("Voçe ganhou a luta.");
              energia -= 15;
-             System.out.println("Pontos de vida -15");
+             System.out.println("Pontos de energia -15");
             }
            System.out.println("Voçe segue a viagem e depois de um tempo, se depara com dois caminhos ");
            System.out.println("O da direita e o da esquerda:");
