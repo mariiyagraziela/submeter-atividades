@@ -12,11 +12,11 @@ public class Main_mineprojeto2
 {
    public static void  main(String[] args){
        //Declarando os objetos
-       mineprojeto2 personagem1 = new mineprojeto2();
-       mineprojeto2 personagem2 = new mineprojeto2();
+       mineprojeto2_capitulo personagem1 = new mineprojeto2_capitulo();
+       mineprojeto2_capitulo personagem2 = new mineprojeto2_capitulo();
        Scanner scan = new Scanner(System.in);
        String historia= "em processo";
-
+    
        //Esquema para escolher do persongem
        System.out.println("Escolha o personagem");
        System.out.println("1-Joana, 22 anos, 24(HP)");
@@ -112,6 +112,5 @@ public class Main_mineprojeto2
         else{
             System.out.println("Final de historia!!");
         }
-
     }
 }
