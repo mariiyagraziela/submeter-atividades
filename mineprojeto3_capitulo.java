@@ -5,6 +5,7 @@ import java.util.Scanner;
  * @author (Graziela) 
  * @version (30/04/2024)
  */
+//classe do projeto
 public class mineprojeto3_capitulo
 {
     String nome;

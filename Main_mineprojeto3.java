@@ -6,6 +6,7 @@ import java.util.Scanner;
  * @author (Graziela) 
  * @version (30/04/2011)
  */
+//Main do projeto
 public class Main_mineprojeto3 {
     public static void  main(String[] args){
        Scanner scan = new Scanner(System.in);
